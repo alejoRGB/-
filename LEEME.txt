@@ -1,0 +1,13 @@
+INSTRUCCIONES:
+
+0. tenes que instalar NODE https://nodejs.org/en/download
+
+1. Abrir una terminal en la carpeta base y ejecutar el comando "node bridge.js"
+2. abrir el archivo index.html
+
+Con las teclas se activan funciones:
+"A": se imprimen en la pantalla los valores de distancia entre los dedos
+"S": dibuja lineas entre los dedos
+"D": dibuja un corazon entre los dedos indices
+"F": imprime los FPS
+"G" dibuja todos los puntos que detecta el handtracker
